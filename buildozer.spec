@@ -12,7 +12,7 @@ source.include_exts = py,png,jpg,kv,atlas,db
 version = 0.1
 
 # Библиотеки, которые нужны для работы (requirements)
-requirements = python3,kivy,kivymd,pillow,sqlite3
+requirements = python3,kivy,kivymd,pillow,sqlite3,pyjnius
 
 # Ориентация экрана
 orientation = portrait
