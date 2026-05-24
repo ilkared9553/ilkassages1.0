@@ -1,4 +1,5 @@
 [app]
+log_level = 1
 title = Ilkassages
 package.name = ilkassages
 package.domain = org.ilya
